@@ -85,7 +85,7 @@ To run the provided Python code, ensure you have the following installed:<br/>
 
 ### Installation steps:<br/>
 1. Clone the repository:<br/>
-```git clone https://github.com/draemonsi/ECE2112-Experiment3.git``` <br/>
+```git clone https://github.com/draemonsi/data-analysis-with-python.git``` <br/>
 2. Install dependencies (if Pandas is not installed):<br/>
 ```pip install pandas```<br/>
 ---
